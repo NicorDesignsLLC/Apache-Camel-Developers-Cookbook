@@ -1,0 +1,13 @@
+org\camelcookbook\structuringroutes\routecontrol\RouteStoppingProcessor.class
+org\camelcookbook\structuringroutes\direct\DirectRouteBuilder.class
+org\camelcookbook\structuringroutes\simplespring\SpringCamelApplication.class
+org\camelcookbook\structuringroutes\vm\ExternalLoggingRouteBuilder.class
+org\camelcookbook\structuringroutes\routecontrol\RouteStoppingProcessor$1.class
+org\camelcookbook\structuringroutes\seda\LongRunningProcessor.class
+org\camelcookbook\structuringroutes\propertyplaceholder\PropertyConsumingRouteBuilder.class
+org\camelcookbook\structuringroutes\simple\LogMessageOnTimerEventRouteBuilder.class
+org\camelcookbook\structuringroutes\templating\OrderFileNameProcessor.class
+org\camelcookbook\structuringroutes\simplespring\SpringJavaDslApplication.class
+org\camelcookbook\structuringroutes\seda\SedaTimerRouteBuilder.class
+org\camelcookbook\structuringroutes\simple\SimpleCamelApplication.class
+org\camelcookbook\structuringroutes\templating\OrderProcessingRouteBuilder.class

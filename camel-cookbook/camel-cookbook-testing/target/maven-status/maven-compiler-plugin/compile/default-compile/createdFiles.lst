@@ -1,0 +1,6 @@
+org\camelcookbook\examples\testing\java\SimpleTransformRouteBuilder.class
+org\camelcookbook\examples\testing\mocks\ContentBasedRouterRouteBuilder.class
+org\camelcookbook\examples\testing\java\SlowlyTransformingRouteBuilder.class
+org\camelcookbook\examples\testing\mockreply\MockReplyRouteBuilder.class
+org\camelcookbook\examples\testing\exchange\ComplicatedProcessor.class
+org\camelcookbook\examples\testing\java\SimpleTransformDIRouteBuilder.class

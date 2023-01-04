@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/camel-cookbook-error/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-error/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-extend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-extend/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-monitoring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-monitoring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-parallel-processing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-parallel-processing/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-routing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-routing/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-split-join/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-split-join/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-structuring-routes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-structuring-routes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-testing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-testing/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-transactions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-transactions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-transformation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-transformation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-web-services/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-web-services/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-web-services/ws-camel-routes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-web-services/ws-camel-routes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-web-services/ws-payments-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-cookbook-web-services/ws-payments-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

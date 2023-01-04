@@ -1,0 +1,17 @@
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-error\src\main\java\org\camelcookbook\error\retry\RetryRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-error\src\main\java\org\camelcookbook\error\oncompletion\OnCompletionRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-error\src\main\java\org\camelcookbook\error\shared\SporadicException.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-error\src\main\java\org\camelcookbook\error\synchronizations\DynamicOnCompletionRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-error\src\main\java\org\camelcookbook\error\retrycustom\RetryCustomRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-error\src\main\java\org\camelcookbook\error\synchronizations\ConfirmCancelProcessor.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-error\src\main\java\org\camelcookbook\error\shared\FlakyException.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-error\src\main\java\org\camelcookbook\error\dlc\DlcRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-error\src\main\java\org\camelcookbook\error\logging\LoggingRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-error\src\main\java\org\camelcookbook\error\retrycustom\RetryCustomProcessor.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-error\src\main\java\org\camelcookbook\error\shared\SporadicProcessor.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-error\src\main\java\org\camelcookbook\error\retryconditional\SimplePredicateWrapper.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-error\src\main\java\org\camelcookbook\error\exception\ExceptionRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-error\src\main\java\org\camelcookbook\error\dotry\DoTryRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-error\src\main\java\org\camelcookbook\error\retryconditional\RetryConditionalRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-error\src\main\java\org\camelcookbook\error\oncompletion\OnCompletionMultipleRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-error\src\main\java\org\camelcookbook\error\shared\FlakyProcessor.java

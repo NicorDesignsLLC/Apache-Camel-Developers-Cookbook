@@ -1,0 +1,12 @@
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-monitoring\src\main\java\org\camelcookbook\monitoring\monitor\MonitorRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-monitoring\src\main\java\org\camelcookbook\monitoring\jmx\JmxConfigureCamelApplication.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-monitoring\src\main\java\org\camelcookbook\monitoring\debug\DebugRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-monitoring\src\main\java\org\camelcookbook\monitoring\jmxdisable\JmxDisableCamelApplication.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-monitoring\src\main\java\org\camelcookbook\monitoring\logeip\LogEipRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-monitoring\src\main\java\org\camelcookbook\monitoring\managed\ManagedRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-monitoring\src\main\java\org\camelcookbook\monitoring\log\LogRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-monitoring\src\main\java\org\camelcookbook\monitoring\logthroughput\LogThroughputRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-monitoring\src\main\java\org\camelcookbook\monitoring\naming\JmxNamingContextCamelApplication.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-monitoring\src\main\java\org\camelcookbook\monitoring\trace\TraceRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-monitoring\src\main\java\org\camelcookbook\monitoring\managed\MyManagedBean.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-monitoring\src\main\java\org\camelcookbook\monitoring\naming\JmxNamingPatternCamelApplication.java

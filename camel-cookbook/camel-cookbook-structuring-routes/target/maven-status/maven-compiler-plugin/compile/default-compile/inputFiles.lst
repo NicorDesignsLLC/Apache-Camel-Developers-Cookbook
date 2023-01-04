@@ -1,0 +1,12 @@
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-structuring-routes\src\main\java\org\camelcookbook\structuringroutes\direct\DirectRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-structuring-routes\src\main\java\org\camelcookbook\structuringroutes\simplespring\SpringCamelApplication.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-structuring-routes\src\main\java\org\camelcookbook\structuringroutes\seda\LongRunningProcessor.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-structuring-routes\src\main\java\org\camelcookbook\structuringroutes\simplespring\SpringJavaDslApplication.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-structuring-routes\src\main\java\org\camelcookbook\structuringroutes\seda\SedaTimerRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-structuring-routes\src\main\java\org\camelcookbook\structuringroutes\simple\LogMessageOnTimerEventRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-structuring-routes\src\main\java\org\camelcookbook\structuringroutes\propertyplaceholder\PropertyConsumingRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-structuring-routes\src\main\java\org\camelcookbook\structuringroutes\routecontrol\RouteStoppingProcessor.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-structuring-routes\src\main\java\org\camelcookbook\structuringroutes\simple\SimpleCamelApplication.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-structuring-routes\src\main\java\org\camelcookbook\structuringroutes\templating\OrderProcessingRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-structuring-routes\src\main\java\org\camelcookbook\structuringroutes\vm\ExternalLoggingRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-structuring-routes\src\main\java\org\camelcookbook\structuringroutes\templating\OrderFileNameProcessor.java

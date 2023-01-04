@@ -1,0 +1,11 @@
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-parallel-processing\src\main\java\org\camelcookbook\parallelprocessing\endpointconsumers\EndpointConsumersSedaRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-parallel-processing\src\main\java\org\camelcookbook\parallelprocessing\threadpoolprofiles\CustomThreadPoolProfileRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-parallel-processing\src\main\java\org\camelcookbook\parallelprocessing\asyncprocessor\SometimesAsyncProcessorRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-parallel-processing\src\main\java\org\camelcookbook\parallelprocessing\threadsdsl\ThreadsDslInOutRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-parallel-processing\src\main\java\org\camelcookbook\parallelprocessing\asyncprocessor\HeaderDrivenSlowOperationProcessor.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-parallel-processing\src\main\java\org\camelcookbook\parallelprocessing\asyncprocessor\SlowOperationProcessor.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-parallel-processing\src\main\java\org\camelcookbook\parallelprocessing\asyncrequest\SlowProcessingRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-parallel-processing\src\main\java\org\camelcookbook\parallelprocessing\threadpools\CustomThreadPoolRefRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-parallel-processing\src\main\java\org\camelcookbook\parallelprocessing\threadsdsl\ThreadsDslRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-parallel-processing\src\main\java\org\camelcookbook\parallelprocessing\threadpools\CustomThreadPoolInlineRouteBuilder.java
+C:\Users\Nkock\git\camel-cookbook-update\camel-cookbook\camel-cookbook-parallel-processing\src\main\java\org\camelcookbook\parallelprocessing\asyncprocessor\AsyncProcessorRouteBuilder.java

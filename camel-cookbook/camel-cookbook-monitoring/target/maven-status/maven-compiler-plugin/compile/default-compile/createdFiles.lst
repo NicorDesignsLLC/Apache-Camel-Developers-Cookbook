@@ -1,0 +1,16 @@
+org\camelcookbook\monitoring\naming\JmxNamingPatternCamelApplication$1.class
+org\camelcookbook\monitoring\logeip\LogEipRouteBuilder.class
+org\camelcookbook\monitoring\monitor\MonitorRouteBuilder.class
+org\camelcookbook\monitoring\managed\MyManagedBean.class
+org\camelcookbook\monitoring\trace\TraceRouteBuilder.class
+org\camelcookbook\monitoring\jmxdisable\JmxDisableCamelApplication$1.class
+org\camelcookbook\monitoring\naming\JmxNamingPatternCamelApplication.class
+org\camelcookbook\monitoring\jmx\JmxConfigureCamelApplication.class
+org\camelcookbook\monitoring\debug\DebugRouteBuilder.class
+org\camelcookbook\monitoring\log\LogRouteBuilder.class
+org\camelcookbook\monitoring\managed\ManagedRouteBuilder.class
+org\camelcookbook\monitoring\naming\JmxNamingContextCamelApplication.class
+org\camelcookbook\monitoring\jmx\JmxConfigureCamelApplication$1.class
+org\camelcookbook\monitoring\jmxdisable\JmxDisableCamelApplication.class
+org\camelcookbook\monitoring\naming\JmxNamingContextCamelApplication$1.class
+org\camelcookbook\monitoring\logthroughput\LogThroughputRouteBuilder.class

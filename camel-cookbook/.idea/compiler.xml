@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="split-join" />
+        <module name="parallel-processing" />
+        <module name="testing" />
+        <module name="ws-camel-routes" />
+        <module name="error" />
+        <module name="monitoring" />
+        <module name="transactions" />
+        <module name="transformation" />
+        <module name="extend" />
+        <module name="routing" />
+        <module name="security" />
+        <module name="structuring-routes" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="web-services" target="1.8" />
+      <module name="ws-payments-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

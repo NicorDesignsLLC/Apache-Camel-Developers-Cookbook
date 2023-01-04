@@ -1,0 +1,11 @@
+org\camelcookbook\security\encryption\EncryptionDynamicRouteBuilder$1.class
+org\camelcookbook\security\encryptedproperties\EncryptedPropertiesRouteBuilder.class
+org\camelcookbook\security\encryption\EncryptionRouteBuilder.class
+org\camelcookbook\security\encryption\EncryptionDynamicRouteBuilder.class
+org\camelcookbook\security\signatures\SignaturesDynamicRouteBuilder.class
+org\camelcookbook\security\springsecurity\SecuritySubjectLoader.class
+org\camelcookbook\security\xmlsecurity\SecurityAsymRouteBuilder.class
+org\camelcookbook\security\xmlsecurity\SecurityAsymNamespacesRouteBuilder.class
+org\camelcookbook\security\xmlsecurity\SecurityRouteBuilder.class
+org\camelcookbook\security\signatures\SignaturesRouteBuilder.class
+org\camelcookbook\security\springsecurity\SecurityContextLoader.class
