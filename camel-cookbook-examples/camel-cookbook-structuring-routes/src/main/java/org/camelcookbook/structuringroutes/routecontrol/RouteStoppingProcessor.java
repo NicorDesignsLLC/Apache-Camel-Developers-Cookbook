@@ -29,14 +29,11 @@ public class RouteStoppingProcessor implements Processor {
     public void process(Exchange exchange) throws Exception {
         final String routeName = exchange.getIn().getBody(String.class);
         final CamelContext context = exchange.getContext();
-        new Thread(new Runnable() {
-            @Override
-            public void run() {
-                try {
-                    context.stopRoute(routeName);
-                } catch (Exception e) {
-                    throw new RuntimeException(e);
-                }
+        new Thread(() -> {
+            try {
+                context.getRouteController().stopRoute(routeName);
+            } catch (Exception e) {
+                throw new RuntimeException(e);
             }
         }).start();
     }

@@ -51,7 +51,7 @@ public class RouteStoppingProcessorTest extends CamelTestSupport {
 
         assertMockEndpointsSatisfied();
         Thread.sleep(100);
-        ServiceStatus mainRouteStatus = context.getRouteStatus("mainRoute");
+        ServiceStatus mainRouteStatus = context.getRouteController().getRouteStatus("mainRoute");
         assertTrue(mainRouteStatus.isStopped());
     }
 }

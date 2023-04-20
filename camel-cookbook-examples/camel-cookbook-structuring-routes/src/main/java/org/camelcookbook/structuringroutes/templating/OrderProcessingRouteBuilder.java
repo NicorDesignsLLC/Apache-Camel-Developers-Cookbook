@@ -49,7 +49,7 @@ public class OrderProcessingRouteBuilder extends RouteBuilder {
     @Override
     public void configure() throws Exception {
         from(inputUri)
-            .split(body(String.class).tokenize("\n")) // split into individual lines
+            .split(bodyAs(String.class).tokenize("\n")) // split into individual lines
                 .process(orderFileNameProcessor)
                 .log("Writing file: ${header.CamelFileName}")
                 .to(outputUri)
