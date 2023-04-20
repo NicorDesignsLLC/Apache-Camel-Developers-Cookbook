@@ -1,6 +1,8 @@
 Apache Camel Developer's Cookbook Samples
 =========================================
 
+Let's move this to the latest and greatest : [Camel 3](https://camel.apache.org/manual/camel-3-migration-guide.html)
+
 This project contains the sample code for the [_Apache Camel Developer's Cookbook_](http://www.packtpub.com/apache-camel-developers-cookbook/book)
 (Packt Publishing, Dec 2013) by [Scott Cranton](https://github.com/scranton) and [Jakub Korab](https://github.com/jkorab).
 The latest version of this code is available on [GitHub](http://github.com/CamelCookbook/camel-cookbook-examples).
