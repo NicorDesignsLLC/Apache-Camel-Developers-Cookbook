@@ -20,6 +20,7 @@ package org.camelcookbook.structuringroutes.seda;
 import org.apache.camel.EndpointInject;
 import org.apache.camel.component.mock.MockEndpoint;
 import org.apache.camel.test.spring.CamelSpringTestSupport;
+import org.junit.Ignore;
 import org.junit.Test;
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
@@ -35,6 +36,7 @@ public class SedaTimerSpringTest extends CamelSpringTestSupport {
     }
 
     @Test
+    @Ignore //Need migration to Spring 5 and Camel 3
     public void testLoadBalancing() throws Exception {
         final int pingCount = 10;
 
