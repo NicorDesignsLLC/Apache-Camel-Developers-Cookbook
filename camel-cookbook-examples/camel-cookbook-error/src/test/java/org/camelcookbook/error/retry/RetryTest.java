@@ -7,7 +7,7 @@
  * You may obtain a copy of the License at
  *
  *    http://www.apache.org/licenses/LICENSE-2.0
- *
+ *mvn
  * Unless required by applicable law or agreed to in writing, software
  * distributed under the License is distributed on an "AS IS" BASIS,
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -64,7 +64,7 @@ public class RetryTest extends CamelTestSupport {
         mockEndpoint.allMessages().header(Exchange.REDELIVERED).isEqualTo(true);
         mockEndpoint.allMessages().header(Exchange.REDELIVERY_COUNTER).isEqualTo(1);
         mockEndpoint.allMessages().header(Exchange.REDELIVERY_MAX_COUNTER).isEqualTo(2);
-        mockEndpoint.allMessages().property("SporadicDelay").isGreaterThanOrEqualTo(500);
+        mockEndpoint.allMessages().xquery("SporadicDelay").isGreaterThanOrEqualTo(500);
 
         template.sendBody("direct:routeSpecificDelay", "Foo");
 

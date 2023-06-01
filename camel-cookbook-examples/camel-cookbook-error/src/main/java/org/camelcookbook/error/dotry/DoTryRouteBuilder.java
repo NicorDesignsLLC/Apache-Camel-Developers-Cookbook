@@ -43,7 +43,7 @@ public class DoTryRouteBuilder extends RouteBuilder {
                 .bean(FlakyProcessor.class)
                 .transform(constant("Made it!"))
             .doCatch(FlakyException.class)
-                .handled(false)
+                //.handled(false)
                 .to("mock:error")
                 .transform(constant("Something Bad Happened!"))
             .doFinally()

@@ -35,22 +35,33 @@ public class ConfirmCancelProcessor implements Processor {
     public void process(Exchange exchange) throws Exception {
         log.info("Starting two-phase operation");
 
-        final ProducerTemplate producerTemplate =
-            exchange.getContext().createProducerTemplate();
-        producerTemplate.send("mock:start", exchange);
+        //final ProducerTemplate producerTemplate =
+        //    exchange.getContext().createProducerTemplate();
+        try (ProducerTemplate producerTemplate =
+                     exchange.getContext().createProducerTemplate()) {
 
-        exchange.addOnCompletion(new Synchronization() {
-            @Override
-            public void onComplete(Exchange exchange) {
-                log.info("Completed - confirming");
-                producerTemplate.send("mock:confirm", exchange);
-            }
+            producerTemplate.send("mock:start", exchange);
 
-            @Override
-            public void onFailure(Exchange exchange) {
-                log.info("Failed - cancelling");
-                producerTemplate.send("mock:cancel", exchange);
-            }
-        });
+        } catch (Exception e) {
+            log.info("Exception occurred - cancelling");
+
+        } finally {
+            log.info("Completed - confirming");
+
+        }
+
+//        exchange.addOnCompletion(new Synchronization() {
+//            @Override
+//            public void onComplete(Exchange exchange) {
+//                log.info("Completed - confirming");
+//                producerTemplate.send("mock:confirm", exchange);
+//            }
+//
+//            @Override
+//            public void onFailure(Exchange exchange) {
+//                log.info("Failed - cancelling");
+//                producerTemplate.send("mock:cancel", exchange);
+//            }
+//        });
     }
 }
